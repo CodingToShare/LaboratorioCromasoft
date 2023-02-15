@@ -8,8 +8,8 @@
 
   <ItemGroup>
     <Folder Include="Entities\" />
-    <Folder Include="ValueObjects\" />
     <Folder Include="Repositories\" />
+    <Folder Include="ValueObjects\" />
   </ItemGroup>
 
 </Project>
